@@ -170,6 +170,6 @@ for the full license texts and legal notices.
 [ref-cmake-build]:      https://github.com/Kitware/CMake#building-cmake-from-scratch
 [ref-mit]:              https://opensource.org/licenses/MIT
 
-# src/lab_m1/Tema1 --> (2D Survival Shooter) Try to protect yourself from the hordes of enemies with the trusty "shoot projectile" mechanic
-# src/lab_m1/Tema2 --> (3D Survival Maze) Find the escape from one of the multiple labyrinths of this game, fighting your way through the exit
-# src/lab_m1/Tema3 --> (Disco Party) Cute and funny disco party, where characters take a day off and show their (randomly generated) dance moves on the lit and colorful floor, in the midst of shining spotlights
+## :skull_and_crossbones: src/lab_m1/Tema1 --> (2D Survival Shooter) Try to protect yourself from the hordes of enemies with the trusty "shoot projectile" mechanic
+## :brain: src/lab_m1/Tema2 --> (3D Survival Maze) Find the escape from one of the multiple labyrinths of this game, fighting your way through the exit
+## :dancer: src/lab_m1/Tema3 --> (Disco Party) Cute and funny disco party, where characters take a day off and show their (randomly generated) dance moves on the lit and colorful floor, in the midst of shining spotlights
